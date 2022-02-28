@@ -1,3 +1,10 @@
 //mod split_strings;
 //mod create_phone_number;
-mod credit_card_mask;
+//mod credit_card_mask;
+//mod categorize_new_member;
+//mod ones_and_zeros;
+//mod spin_word;
+//mod bit_count;
+//mod pile_cube;
+//mod your_order;
+mod weight_weight;
