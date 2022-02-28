@@ -9,4 +9,8 @@
 //mod your_order;
 //mod weight_weight;
 //mod number_of_trailing_zeros;
-mod catalog;
+//mod catalog;
+//mod duplicate_encode;
+//mod fix_string_case;
+//mod rot13;
+mod sec_min_hour;
