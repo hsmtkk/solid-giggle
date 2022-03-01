@@ -1,3 +1,5 @@
+extern crate core;
+
 //mod split_strings;
 //mod create_phone_number;
 //mod credit_card_mask;
@@ -14,4 +16,7 @@
 //mod fix_string_case;
 //mod rot13;
 //mod sec_min_hour;
-mod pascal_triangle;
+//mod pascal_triangle;
+//mod cannon_ready;
+//mod easy_balance_check;
+mod area_perimeter;
