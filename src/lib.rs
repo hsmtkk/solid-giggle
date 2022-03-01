@@ -13,4 +13,5 @@
 //mod duplicate_encode;
 //mod fix_string_case;
 //mod rot13;
-mod sec_min_hour;
+//mod sec_min_hour;
+mod pascal_triangle;
