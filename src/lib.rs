@@ -1,5 +1,3 @@
-extern crate core;
-
 //mod split_strings;
 //mod create_phone_number;
 //mod credit_card_mask;
@@ -19,4 +17,6 @@ extern crate core;
 //mod pascal_triangle;
 //mod cannon_ready;
 //mod easy_balance_check;
-mod area_perimeter;
+//mod area_perimeter;
+//mod valid_pin;
+mod nth_power;
