@@ -19,4 +19,5 @@
 //mod easy_balance_check;
 //mod area_perimeter;
 //mod valid_pin;
-mod nth_power;
+//mod nth_power;
+mod manhattan_distance;
