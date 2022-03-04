@@ -23,4 +23,6 @@
 //mod manhattan_distance;
 //mod unlucky_days;
 //mod alternate_case;
-mod diff_vol_cube;
+//mod diff_vol_cube;
+//mod largest_five;
+mod address_book;

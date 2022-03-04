@@ -6,8 +6,10 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-anyhow = "1.0.55"
-chrono = "0.4.19"
-#serde = {version="1.0.136", features=["derive"]}
+csv = "1.1.6"
+serde = { version = "1.0.136", features = ["derive"] }
+#rusqlite = {version="0.27.0", features=["bundled"]}
+#anyhow = "1.0.55"
+#chrono = "0.4.19"
 #serde-xml-rs = "0.5.1"
 # num-bigint = "0.4.3"
