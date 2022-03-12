@@ -39,4 +39,5 @@
 //mod reverse_word;
 //mod sum_min;
 //mod enough_enough;
-mod array_leader;
+//mod array_leader;
+mod compose_square_string;
