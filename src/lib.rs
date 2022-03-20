@@ -49,4 +49,6 @@
 //mod valid_space;
 //mod most_frequent_days;
 //mod count_digit;
-mod growth_population;
+//mod growth_population;
+mod triplex;
+
