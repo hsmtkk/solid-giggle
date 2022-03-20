@@ -50,5 +50,7 @@
 //mod most_frequent_days;
 //mod count_digit;
 //mod growth_population;
-mod triplex;
-
+//mod triplex;
+//mod dsc_order;
+//mod even_odd;
+mod reduce_step;
