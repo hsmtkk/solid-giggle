@@ -58,4 +58,6 @@
 //mod page_book;
 //mod find_divisor;
 //mod middle_char;
-mod benefactor;
+//mod benefactor;
+mod total_point;
+
