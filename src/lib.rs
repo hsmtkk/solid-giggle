@@ -60,4 +60,6 @@
 //mod middle_char;
 //mod benefactor;
 //mod total_point;
-mod go_cinema;
+//mod go_cinema;
+//mod cnt_pos_sum_neg;
+mod abbrev_name;
