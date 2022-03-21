@@ -59,5 +59,5 @@
 //mod find_divisor;
 //mod middle_char;
 //mod benefactor;
-mod total_point;
-
+//mod total_point;
+mod go_cinema;
