@@ -64,4 +64,5 @@
 //mod cnt_pos_sum_neg;
 //mod abbrev_name;
 //mod sum_digit;
-mod find_uniq;
+//mod find_uniq;
+mod well_idea;
