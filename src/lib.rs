@@ -65,4 +65,5 @@
 //mod abbrev_name;
 //mod sum_digit;
 //mod find_uniq;
-mod well_idea;
+//mod well_idea;
+mod buy_car;
