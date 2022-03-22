@@ -63,5 +63,5 @@
 //mod go_cinema;
 //mod cnt_pos_sum_neg;
 //mod abbrev_name;
-mod sum_digit;
-
+//mod sum_digit;
+mod find_uniq;
