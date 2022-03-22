@@ -62,4 +62,6 @@
 //mod total_point;
 //mod go_cinema;
 //mod cnt_pos_sum_neg;
-mod abbrev_name;
+//mod abbrev_name;
+mod sum_digit;
+
