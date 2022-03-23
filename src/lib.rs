@@ -66,4 +66,7 @@
 //mod sum_digit;
 //mod find_uniq;
 //mod well_idea;
-mod buy_car;
+//mod buy_car;
+//mod parse_age;
+//mod max_diff;
+mod scale_square_string;
