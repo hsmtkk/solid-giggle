@@ -69,4 +69,6 @@
 //mod buy_car;
 //mod parse_age;
 //mod max_diff;
-mod scale_square_string;
+//mod scale_square_string;
+//mod pony_express;
+mod deodrant_evaporator;
