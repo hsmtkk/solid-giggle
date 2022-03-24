@@ -72,4 +72,5 @@
 //mod scale_square_string;
 //mod pony_express;
 //mod deodrant_evaporator;
-mod mul_table;
+//mod mul_table;
+mod tortise_race;
