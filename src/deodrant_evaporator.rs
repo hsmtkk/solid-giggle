@@ -3,11 +3,11 @@ fn evaporator(init_content: u32, evap_per_day: u32, threshold_ratio: u32) -> u32
     let threshold_content: f32 = init_content as f32 * threshold_ratio as f32 * 0.01;
     let mut days = 0;
     loop {
-        days += 1;
         content *= 1.0 - 0.01 * evap_per_day as f32;
         if content < threshold_content {
             break;
         }
+        days
     }
     days
 }
