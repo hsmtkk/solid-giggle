@@ -80,4 +80,6 @@
 //mod inverse_slice;
 //mod num_reverse_digit;
 //mod mexican_wave;
-mod all_inclusive;
+//mod all_inclusive;
+//mod triangle_number_check;
+mod mumbling;
