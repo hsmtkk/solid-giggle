@@ -79,4 +79,5 @@
 //mod duplicate_count;
 //mod inverse_slice;
 //mod num_reverse_digit;
-mod mexican_wave;
+//mod mexican_wave;
+mod all_inclusive;
