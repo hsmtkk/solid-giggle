@@ -82,4 +82,5 @@
 //mod mexican_wave;
 //mod all_inclusive;
 //mod triangle_number_check;
-mod mumbling;
+//mod mumbling;
+mod spoonerize_me;
