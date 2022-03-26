@@ -83,4 +83,6 @@
 //mod all_inclusive;
 //mod triangle_number_check;
 //mod mumbling;
-mod spoonerize_me;
+//mod spoonerize_me;
+//mod are_they_same;
+mod sum_int_string;
