@@ -87,4 +87,5 @@
 //mod are_they_same;
 //mod sum_int_string;
 //mod fusc;
-mod prev_mul_three;
+//mod prev_mul_three;
+mod find_non_consecutive;
