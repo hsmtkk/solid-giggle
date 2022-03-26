@@ -85,4 +85,6 @@
 //mod mumbling;
 //mod spoonerize_me;
 //mod are_they_same;
-mod sum_int_string;
+//mod sum_int_string;
+//mod fusc;
+mod prev_mul_three;
