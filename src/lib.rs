@@ -88,4 +88,12 @@
 //mod sum_int_string;
 //mod fusc;
 //mod prev_mul_three;
-mod find_non_consecutive;
+//mod find_non_consecutive;
+//mod count_ip;
+//mod exe_oh;
+//mod shortest_word;
+//mod digits_explosion;
+//mod you_are_square;
+//mod calc_str_rotate;
+//mod hello_name_world;
+mod max_len_diff;
