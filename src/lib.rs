@@ -97,4 +97,5 @@
 //mod calc_str_rotate;
 //mod hello_name_world;
 //mod max_len_diff;
-mod count_sheep;
+//mod count_sheep;
+mod tribonacci;
