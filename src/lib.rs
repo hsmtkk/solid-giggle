@@ -98,4 +98,10 @@
 //mod hello_name_world;
 //mod max_len_diff;
 //mod count_sheep;
-mod tribonacci;
+//mod tribonacci;
+//mod warn_sheep;
+//mod expression_master;
+//mod feast_beast;
+//mod hq9;
+//mod count_salute;
+mod doubleton;
