@@ -105,4 +105,5 @@
 //mod hq9;
 //mod count_salute;
 //mod doubleton;
-mod shifter_word;
+//mod shifter_word;
+mod blue_red_marble;
