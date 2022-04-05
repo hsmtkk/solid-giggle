@@ -111,4 +111,5 @@
 //mod right_center;
 //mod grid_index;
 //mod mirror_array;
-mod pandemia;
+//mod pandemia;
+mod alphabet_add;
