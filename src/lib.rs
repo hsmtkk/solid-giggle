@@ -106,4 +106,11 @@
 //mod count_salute;
 //mod doubleton;
 //mod shifter_word;
+//mod blue_red_marble;
+//mod stones_table;
+//mod right_center;
+//mod grid_index;
+//mod mirror_array;
+//mod pandemia;
+//mod alphabet_add;
 mod str_pre_suf;
