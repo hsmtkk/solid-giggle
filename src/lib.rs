@@ -115,4 +115,6 @@
 //mod alphabet_add;
 //mod str_pre_suf;
 //mod simple_array_product;
-mod square_pi;
+//mod square_pi;
+//mod suitcase_packing;
+mod large_product_sum;
