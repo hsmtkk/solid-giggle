@@ -113,4 +113,6 @@
 //mod mirror_array;
 //mod pandemia;
 //mod alphabet_add;
-mod str_pre_suf;
+//mod str_pre_suf;
+//mod simple_array_product;
+mod square_pi;
