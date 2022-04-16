@@ -123,4 +123,6 @@
 //mod billards_triangle;
 //mod find_nth_digit;
 //mod find_middle;
-mod alphabet_symmetry;
+//mod alphabet_symmetry;
+//mod give_me_diamond;
+mod mul35;
