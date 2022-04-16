@@ -121,4 +121,6 @@
 //mod poet_pendulum;
 //mod find_screen_size;
 //mod billards_triangle;
-mod find_nth_digit;
+//mod find_nth_digit;
+//mod find_middle;
+mod alphabet_symmetry;
