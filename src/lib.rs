@@ -1,3 +1,5 @@
+extern crate core;
+
 //mod split_strings;
 //mod create_phone_number;
 //mod credit_card_mask;
@@ -126,4 +128,5 @@
 //mod alphabet_symmetry;
 //mod give_me_diamond;
 //mod mul35;
-mod pi_approx;
+//mod pi_approx;
+mod which_are_in;
