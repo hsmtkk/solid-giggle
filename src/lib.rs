@@ -129,4 +129,5 @@ extern crate core;
 //mod give_me_diamond;
 //mod mul35;
 //mod pi_approx;
-mod which_are_in;
+//mod which_are_in;
+mod simple_str_char;
