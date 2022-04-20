@@ -130,4 +130,7 @@ extern crate core;
 //mod mul35;
 //mod pi_approx;
 //mod which_are_in;
-mod simple_str_char;
+//mod simple_str_char;
+//mod dig_pow;
+//mod string_destroyer;
+mod simple_cipher_helper;
