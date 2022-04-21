@@ -133,4 +133,6 @@ extern crate core;
 //mod simple_str_char;
 //mod dig_pow;
 //mod string_destroyer;
-mod simple_cipher_helper;
+//mod simple_cipher_helper;
+//mod good_vs_evil;
+mod equable_triangle;
