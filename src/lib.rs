@@ -143,4 +143,7 @@ extern crate core;
 //mod weird_case;
 //mod highest_rank;
 //mod add_word;
-mod sum_even_fibonacci;
+//mod sum_even_fibonacci;
+//mod to_leet_speak;
+//mod digital_cypher;
+mod fizz_buzz_cuckoo_clock;
