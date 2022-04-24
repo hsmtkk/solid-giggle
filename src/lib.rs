@@ -146,4 +146,5 @@ extern crate core;
 //mod sum_even_fibonacci;
 //mod to_leet_speak;
 //mod digital_cypher;
-mod fizz_buzz_cuckoo_clock;
+//mod fizz_buzz_cuckoo_clock;
+mod camel_case;
