@@ -148,4 +148,5 @@ extern crate core;
 //mod digital_cypher;
 //mod fizz_buzz_cuckoo_clock;
 //mod camel_case;
-mod growing_plant;
+//mod growing_plant;
+mod alternate_capitalize;
