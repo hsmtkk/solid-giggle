@@ -147,4 +147,5 @@ extern crate core;
 //mod to_leet_speak;
 //mod digital_cypher;
 //mod fizz_buzz_cuckoo_clock;
-mod camel_case;
+//mod camel_case;
+mod growing_plant;
