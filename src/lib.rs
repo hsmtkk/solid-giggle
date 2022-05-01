@@ -155,4 +155,6 @@ extern crate core;
 //mod sum_single;
 //mod basic_sequence_practice;
 //mod form_min;
-mod char_freq;
+//mod char_freq;
+//mod numerical_string;
+mod split_add;
