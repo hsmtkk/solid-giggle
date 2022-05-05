@@ -157,4 +157,7 @@ extern crate core;
 //mod form_min;
 //mod char_freq;
 //mod numerical_string;
-mod split_add;
+//mod split_add;
+//mod next_happy_year;
+//mod consecutive_needed;
+mod man_boy;
