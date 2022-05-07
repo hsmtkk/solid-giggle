@@ -160,4 +160,5 @@ extern crate core;
 //mod split_add;
 //mod next_happy_year;
 //mod consecutive_needed;
-mod man_boy;
+//mod man_boy;
+mod dominant_array;
