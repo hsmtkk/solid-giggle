@@ -161,4 +161,7 @@ extern crate core;
 //mod next_happy_year;
 //mod consecutive_needed;
 //mod man_boy;
-mod dominant_array;
+//mod dominant_array;
+//mod max_min_array;
+//mod apparently_modify_string;
+mod array_element_parity;
