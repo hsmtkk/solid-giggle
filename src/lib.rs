@@ -173,4 +173,6 @@ extern crate core;
 //mod string_doubles;
 //mod tidy_number;
 //mod love_friend;
-mod summy;
+//mod summy;
+//mod simple_letter_remove;
+mod correct_time_string;
