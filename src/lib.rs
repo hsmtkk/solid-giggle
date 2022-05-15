@@ -175,4 +175,5 @@ extern crate core;
 //mod love_friend;
 //mod summy;
 //mod simple_letter_remove;
-mod correct_time_string;
+//mod correct_time_string;
+mod life_path_number;
