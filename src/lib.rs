@@ -177,4 +177,5 @@ extern crate core;
 //mod simple_letter_remove;
 //mod correct_time_string;
 //mod life_path_number;
-mod simple_string_reverse;
+//mod simple_string_reverse;
+mod simple_consecutive_pairs;
