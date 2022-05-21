@@ -178,4 +178,6 @@ extern crate core;
 //mod correct_time_string;
 //mod life_path_number;
 //mod simple_string_reverse;
-mod simple_consecutive_pairs;
+//mod simple_consecutive_pairs;
+//mod bugs_life;
+mod find_deleted_number;
