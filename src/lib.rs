@@ -182,4 +182,5 @@
 //mod easy_wallpaper;
 //mod pair_of_int;
 //mod length_and_two_values;
-mod count_divisors;
+//mod count_divisors;
+mod freq_seq;
