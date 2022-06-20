@@ -1,5 +1,3 @@
-extern crate core;
-
 //mod split_strings;
 //mod create_phone_number;
 //mod credit_card_mask;
@@ -180,4 +178,7 @@ extern crate core;
 //mod simple_string_reverse;
 //mod simple_consecutive_pairs;
 //mod bugs_life;
-mod find_deleted_number;
+//mod find_deleted_number;
+//mod easy_wallpaper;
+//mod pair_of_int;
+mod length_and_two_values;
