@@ -1,5 +1,3 @@
-extern crate core;
-
 //mod split_strings;
 //mod create_phone_number;
 //mod credit_card_mask;
@@ -185,4 +183,9 @@ extern crate core;
 //mod olympic_rings;
 //mod number_letter;
 //mod strong_number;
+//mod easy_wallpaper;
+//mod pair_of_int;
+//mod length_and_two_values;
+//mod count_divisors;
+//mod freq_seq;
 mod heron_formula;
