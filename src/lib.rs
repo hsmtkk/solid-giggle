@@ -189,4 +189,5 @@
 //mod count_divisors;
 //mod freq_seq;
 //mod heron_formula;
-mod reduce_fraction;
+//mod reduce_fraction;
+mod closest_ten;
